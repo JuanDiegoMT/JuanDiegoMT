@@ -20,15 +20,17 @@ Junior AI Engineer interested in building intelligent solutions using Python, ma
 
 ### 💻 Programming & Data
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white" />
+<p>
+  <img height="28" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B" />
+  <img height="28" src="https://img.shields.io/badge/SQL-336791?style=flat-square&logoColor=white" />
 </p>
 
-### ☁️ Cloud & Development Tools
+---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+### ☁️ Cloud & Development
+
+<p>
+  <img height="28" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img height="28" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img height="28" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
