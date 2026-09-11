@@ -32,16 +32,6 @@ I enjoy building practical, data-driven solutions with **Python**, **machine lea
 - End-to-End AI Systems
 
 
-
-
-
-| Technologies | Proficiency |
-|---|---|
-| Python | Intermediate |
-| SQL | Intermediate |
-| Git & GitHub | Intermediate |
-| RAG | low |
-
 ## ⚙️ Technical Skills
 
 <p>
