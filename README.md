@@ -18,11 +18,13 @@ Junior AI Engineer interested in building intelligent solutions using Python, ma
 
 ## 🛠️ Technologies
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-24292F?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-24292F?style=flat-square&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-24292F?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-24292F?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white" />
-</p>
+**Programming & Data**
 
+![Python](https://img.shields.io/badge/Python-24292F?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-24292F?style=flat-square)
+
+**Cloud & Development**
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-24292F?style=flat-square&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-24292F?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)
