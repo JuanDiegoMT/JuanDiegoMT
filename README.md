@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Juan Diego
+# Juan Diego Mendoza Torres
 
 ### Junior AI Engineer · RAG Systems · Data Pipelines
 
