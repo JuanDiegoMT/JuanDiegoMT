@@ -42,22 +42,18 @@ I enjoy building practical, data-driven solutions with **Python**, **machine lea
 | Git & GitHub | Intermediate |
 | RAG | low |
 
-
-## 🛠️ Technologies
-
-### 💻 Programming & Data
+## ⚙️ Technical Skills
 
 <p>
-  <img height="28" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B" />
-  <img height="28" src="https://img.shields.io/badge/SQL-336791?style=flat-square&logoColor=white" />
+  <sub>
+    Current technical stack and hands-on experience across AI, data, and development tools.
+  </sub>
 </p>
 
----
+| Technology | Proficiency | Practical Experience |
+|:---|:---:|:---|
+| 🐍 **Python** | **Intermediate** | Data processing, automation, AI pipelines, API integration, and RAG development |
+| 🗄️ **SQL** | **Intermediate** | Queries, joins, filtering, aggregation, and structured data analysis |
+| 🔧 **Git & GitHub** | **Intermediate** | Version control, repositories, branching, commits, remote workflows, and project documentation |
+| 🧠 **RAG Systems** | **Beginner / Practical Experience** | Built two end-to-end RAG projects involving document retrieval, contextual generation, and domain-specific question answering |
 
-### ☁️ Cloud & Development
-
-<p>
-  <img height="28" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img height="28" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img height="28" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</p>
