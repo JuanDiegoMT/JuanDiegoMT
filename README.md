@@ -112,8 +112,6 @@ The project combines document retrieval, contextual information processing, and 
 
 <td width="50%" align="center">
 
-### ReLU Activation
-
 <img src="assets/relu_animation.gif" width="90%">
 
 </td>
@@ -123,7 +121,6 @@ The project combines document retrieval, contextual information processing, and 
 
 <div align="center">
 
-### ReLU
 
 \[
 f(x) = \max(0,x)
