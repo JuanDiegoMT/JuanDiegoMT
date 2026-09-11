@@ -18,13 +18,17 @@ Junior AI Engineer interested in building intelligent solutions using Python, ma
 
 ## 🛠️ Technologies
 
-**Programming & Data**
+### 💻 Programming & Data
 
-![Python](https://img.shields.io/badge/Python-24292F?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-24292F?style=flat-square)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white" />
+</p>
 
-**Cloud & Development**
+### ☁️ Cloud & Development Tools
 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-24292F?style=flat-square&logo=googlecloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-24292F?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
