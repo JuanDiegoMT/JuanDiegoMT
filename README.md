@@ -1,16 +1,10 @@
 # Juan Diego Mendoza Torres
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="assets/forIng2.png" width="90%">
-    </td>
-
-    <td width="50%" align="center">
-      <img src="assets/relu_animation.gif" width="90%">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/forIng2.png" width="44%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/relu_animation.gif" width="44%" />
+</p>
 
 
 ## 👨‍💻 About Me
